@@ -1,8 +1,0 @@
-/target/
-dependency-reduced-pom.xml
-nbactions.xml
-.classpath
-.settings
-.project
-src/main/java/Lexer.java
-*~
